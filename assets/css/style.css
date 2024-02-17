@@ -61,6 +61,7 @@ nav ul li a {
   padding: 10px 20px;
 }
 
+/* Styling for main image */
 .hero {
   height: 800px;
   width: 100%;
@@ -86,6 +87,7 @@ nav ul li a {
   margin-left: 20px;
 }
 
+/* Styling for Aside */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -145,6 +147,7 @@ nav ul li a {
   max-width: 150px;
 }
 
+/* Styling for SEO section */
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -154,6 +157,7 @@ nav ul li a {
   color: #ffffff;
 }
 
+/* Styling for Online Reputation section */
 .online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
@@ -163,6 +167,7 @@ nav ul li a {
   color: #ffffff;
 }
 
+/* Styling for Social Media Marketing section */
 .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
@@ -199,7 +204,8 @@ nav ul li a {
   font-size: 36px;
 }
 
-.footer {
+/* Styling for footer */
+footer {
   padding: 30px;
   clear: both;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
@@ -207,6 +213,6 @@ nav ul li a {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
