@@ -4,6 +4,7 @@
   margin: 0;
 }
 
+/* Styling for full page */
 body {
   background-color: #d9dcd6;
 }
@@ -29,11 +30,13 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+/* Styling for links */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/* Styling for paragraphs */
 p {
   font-size: 16px;
 }
