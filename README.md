@@ -2,7 +2,15 @@
 
 ## Description
 
-Brief description or overview of your project goes here.
+Marketing webpage for Horiseon. Webpage includes:
+- Search Engine Optimization
+- Online Reputation Management
+- Social Media Marketing
+- Aside with the following:
+  - Lead Generation
+  - Brand Awareness
+  - Cost Management
+
 
 ## Table of Contents
 
@@ -14,15 +22,13 @@ Brief description or overview of your project goes here.
 
 ## Installation
 
-Instructions on how to get started with your project. Include installation steps, prerequisites, or any initial setup required.
+Instructions on how to get started with your project.
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To get started, open the index.html webpage, and review the options.
 
 ## Usage
 
-Explanation of how to use your project. Provide examples, code snippets, or screenshots if applicable.
-
-To use this Prework Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+To use the webpage, you can review each section.
 
 Screenshot:
 ![alt text](assets/images/digital-marketing-meeting.jpg)
@@ -57,4 +63,4 @@ Acknowledgements to individuals or organizations that contributed to your projec
 
 ## Contact
 
-Provide contact information so that others can reach out to you with questions or feedback.
+Contact information so that others can reach out to you with questions or feedback.
